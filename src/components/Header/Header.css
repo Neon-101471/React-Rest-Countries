@@ -1,0 +1,17 @@
+.header-section{
+    height: 60px;
+    background-color: lightslategrey;
+    padding: 20px;
+}
+
+.header-section a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.header-section a:hover{
+    cursor: pointer;
+    color: lightgray;
+}
